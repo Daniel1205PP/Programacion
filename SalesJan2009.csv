@@ -1,0 +1,6 @@
+Transaction_date,Product,Price,Payment_Type,Name,City,Country
+1/2/2009 6:17,Product1,1200,Visa,John Doe,London,United Kingdom
+1/2/2009 4:53,Product2,800,Mastercard,Jane Smith,New York,United States
+1/2/2009 13:08,Product1,900,Visa,Alice Brown,London,United Kingdom
+1/3/2009 14:44,Product3,1500,Amex,Bob White,Paris,France
+1/4/2009 12:23,Product2,700,Visa,Charlie Black,New York,United States
