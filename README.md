@@ -1,2 +1,0 @@
-# Programacion
-Gestion archivo 
